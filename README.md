@@ -18,3 +18,9 @@ I downloaded the (.CSV) file from the official IEC election results portal [IEC]
 The dashboard can be found [here](https://uctcloud-my.sharepoint.com/:u:/r/personal/ddxbab002_myuct_ac_za/Documents/Elections_Dashboard.pbix?csf=1&web=1&e=aRD5is). You can filter by province, Municipality and Voting Station. Below I've also included a screenshot of the dashboard.
 
 ![Elections dashboard](https://github.com/user-attachments/assets/57ef0a20-83e7-4dc6-ace8-77b62d196a63)
+
+## Exploratory Analysis
+
+- Among overseas voters, the DA received a substantial **75.33%** of the votes, with the EFF following at **4.40%** and the ANC at **3.92%**.
+- Excluding votes from KwaZulu-Natal, the ANC would still not have achieved a majority, securing only **46.49%** of the vote.
+- Gauteng emerged as the most competitive province, with at least four political parties each receiving over **100,000** votes.
