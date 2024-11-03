@@ -10,7 +10,7 @@ A data analysis project that transforms raw IEC (Independent Electoral Commissio
 - **MS Access**: Database management
   
 ## Dataset Structure
-The dataset is an MS acces database consisting of Province, Municipality, VDistrict (Voting Districts), EResult (Election Results), PParty (Political Parties), PVotes (Party Votes)
+I downloade the (.CSV) file from the official IEC election results portal [IEC](https://results.elections.org.za/home/Downloads/NPE-Results) The dataset is an MS acces database consisting of Province, Municipality, VDistrict (Voting Districts), EResult (Election Results), PParty (Political Parties), PVotes (Party Votes)
 
 ![Image Alt](https://github.com/playza5388/Elections_Dashboard_2024ZA/blob/fd7cef2718b91630e6ee36e5f940d618e809cb4b/Untitled.png)
 
