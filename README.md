@@ -15,6 +15,6 @@ I downloaded the (.CSV) file from the official IEC election results portal [IEC]
 ![Image Alt](https://github.com/playza5388/Elections_Dashboard_2024ZA/blob/fd7cef2718b91630e6ee36e5f940d618e809cb4b/Untitled.png)
 
 ## Dashboard 
-The dashboard can be found [dashboard](https://uctcloud-my.sharepoint.com/:u:/r/personal/ddxbab002_myuct_ac_za/Documents/Elections_Dashboard.pbix?csf=1&web=1&e=aRD5is). You can filter by province, Municipality and Voting Station. Below I've also included a screenshot of the dashboard.
+The dashboard can be found [here](https://uctcloud-my.sharepoint.com/:u:/r/personal/ddxbab002_myuct_ac_za/Documents/Elections_Dashboard.pbix?csf=1&web=1&e=aRD5is). You can filter by province, Municipality and Voting Station. Below I've also included a screenshot of the dashboard.
 
 ![Elections dashboard](https://github.com/user-attachments/assets/57ef0a20-83e7-4dc6-ace8-77b62d196a63)
