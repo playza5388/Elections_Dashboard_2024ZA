@@ -1,7 +1,8 @@
 # **South African Elections 2024 Data Analysis**
 A data analysis project that transforms raw IEC (Independent Electoral Commission) election data into structured insights using Python, SQL, MS Access, and Power BI.
+### The goal of this project was to visualize the 2024 national election data and conduct exploratory data analysis (EDA) to uncover trends, patterns, and insights.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python**: Data cleaning and transformation
 - **SQL**: Data structuring and querying
